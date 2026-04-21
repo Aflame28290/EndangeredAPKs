@@ -9,4 +9,4 @@ This repo just stores APK files (Android app installer files) of Android apps th
 <div><p>‎ </p></div>
 <div><p>‎ </p></div>
 <div><p>‎ </p></div>
-<div><p><b>DISCLAIMER: I am not the developer for any of these apps.</b></p></div>
+# DISCLAIMER: I am not the developer for any of these apps.
